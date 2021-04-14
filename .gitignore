@@ -3,6 +3,8 @@
 *.pyc
 *.stackdump
 
+Debug/
+Release/
 .git/
 
 # Object files
